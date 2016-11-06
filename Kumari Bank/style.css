@@ -1,0 +1,145 @@
+body {
+background: #fff url('top.gif') repeat-x top;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+
+.container {
+	    width: 980px;
+    margin: 0 auto;
+}
+
+.top {
+	
+	float:left;
+	color:#fff;
+	font-size:12px;
+	width:100%;
+	margin:-10px 0 0;
+	
+	padding:5px 0 0 0;;
+}
+
+a {text-decoration:none;}
+
+.left {float:left;}
+
+.left a {color:#fff;}
+
+.right {float:right;}
+
+.right img{margin:0px 0 0;}
+
+.s_btn input{    float: left;
+    padding: 0;
+    font-size: 11px;
+    width: 130px;
+    margin: 0 0 0 30px;
+    height: 16px;
+
+}
+
+.clear {clear:both;}
+
+.header {display: inline-block;
+    margin: 10px 0 5px;}
+
+.logo {    display: inline;
+    float: left;}
+
+.lnav {float:left;
+    display:inline-block;}
+
+.pb,.eb,.bb  {float:left;}
+
+.aside {float:left;
+}
+ 
+
+.slider {    margin: 0 0 0 220px;}
+.slider img {display:block;}
+
+.primary {
+width:540px;
+    float: left;
+    margin: 0px 20px;
+
+}
+
+.article  {
+    border-bottom: 1px solid #009bca;
+}
+
+.related {
+    font-size: 12px;
+    display: inline-block;
+
+}
+
+h2 {   
+    
+    color: #008db7;
+    border-bottom: 1px solid #009bca;
+    padding: 0 0 5px 0;
+    position: relative;
+    font-weight: normal;
+    
+    }
+
+#r1 {
+        width: 180px;
+    float: left;
+}
+
+#r2 {    width: 180px;
+    float: left;
+}
+#r3 {    width: 180px;
+    float: left;
+}
+
+.secondary {
+    width: 200px;
+    float: left;
+    margin: 15px 0;
+}
+
+tr.light {    background: #009bca;
+    height: 25px;}
+tr.dark{    background: #008db7;
+    height: 25px;}
+
+h1 {
+    background: #ffd537;
+    border-bottom: 1px solid #FFFFFF;
+    color: #006c9c;
+    font-size: 12px;
+    font-weight: normal;
+    padding:5px 0 5px 15px;
+}
+
+.article a:link,.article a:visited {border-bottom: 1px solid #009bcf;
+margin:0 0 20px;
+color:#008db7;
+font-weight:bold;
+}
+
+.box {
+	    color: #FFFFFF;
+    display: block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    margin: 0 0 10px;
+    background: #009bca;
+}
+.box td {    border-bottom: 1px solid #FFFFFF;
+    text-align: center;
+    padding: 0 0 0 5px;}
+
+
+.td {
+    padding: 0 5px 10px;
+}
+
+.box2 {}
